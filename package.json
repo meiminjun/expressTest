@@ -1,0 +1,23 @@
+{
+  "name": "webservice",
+  "version": "1.0.0",
+  "description": "这是一个nodejs 写的接",
+  "main": "db.js",
+  "dependencies": {
+    "body-parser": "^1.10.2",
+    "bootstrap": "^3.3.2",
+    "debug": "^2.1.1",
+    "ejs": "^2.2.3",
+    "express": "^4.11.1",
+    "express-session": "^1.10.1",
+    "mongodb": "^1.4.30",
+    "multer": "^0.1.7",
+    "mysql": "^2.5.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
